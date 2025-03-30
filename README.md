@@ -1,0 +1,2 @@
+# Anamoly-Detection-in-cloud-server-and-Ticketing-tool
+ I Developed a comprehensive anomaly detection system for cloud server management using Selenium automation. The system generates real-time logs, categorizes them as "NORMAL" or "ANOMALY," and visualizes them on a dashboard with live-time graphs. Users can download logs for analysis and report issues via an integrated ticketing tool, ensuring efficient issue resolution. Administrators oversee and manage tickets, enhancing system reliability and performance.
